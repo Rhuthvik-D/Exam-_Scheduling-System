@@ -1,7 +1,7 @@
 # Exam-_Scheduling-System
 HTML , CSS ,Javascript , MySQL ,php
 
-This HTML project actually contains a whole database of a college, its students, the staff and their time tables for the examinations. It is a reuable and an effficient application.
+This HTML project actually contains a whole database of a college, its students, the staff and their time tables for the examinations. It is a reusable and an efficient application.
 
 Modules:
 -> Creating an interface to the main table management
